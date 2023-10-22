@@ -14,6 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=AyusGup&style=flat-square&color=blue" alt=""/>
   <h1>
+    <img src="https://www.svgrepo.com/show/398590/waving-hand.svg" width="30px"/>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
@@ -37,12 +38,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text-thumbnail.png"  title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/454/464/png-clipart-css3-cascading-style-sheets-logo-html-markup-language-others-miscellaneous-blue-thumbnail.png"  title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/199/348/png-clipart-javascript-programmer-programming-language-computer-programming-node-js-angle-text-thumbnail.png"  title="JS" alt="JS" width="50" height="50"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/283/340/png-clipart-responsive-web-design-web-development-bootstrap-front-and-back-ends-web-design-purple-web-design-thumbnail.png"  title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
+  <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://i.pngimg.me/thumb/f/720/5295033645268992.jpg" title="Socket.io" alt="Socket.io" width="50" height="50"/>&nbsp;
+  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" title="MongoDb" alt="MongoDb" width="50" height="50"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark-thumbnail.png" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" title="Cpp" alt="Cpp" width="50" height="50"/>
 </div>
 
 ---
