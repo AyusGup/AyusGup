@@ -48,7 +48,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark-thumbnail.png" title="ExpressJS" alt="ExpressJS" width="50" height="50"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo.png" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" title="Cpp" alt="Cpp" width="50" height="50"/>
+  <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" title="Cpp" alt="Cpp" width="50" height="50"/>&nbsp;
+  <img src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" title="Next" alt="Next" width="50" height="50"/>&nbsp;
+  <img src="https://velog.velcdn.com/images/diso592/post/f3cd0c91-c61b-403d-9c65-49d54d08d677/image.png" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
 </div>
 
 ---
@@ -57,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
      <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG8wZG1vMzQ0NDc1MGZreWp3YXZoZnBjIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50">
    </a>&nbsp;
    <a href="https://holopin.io/@ag8350961">
-     <img src="https://assets.holopin.io/hf2023levels/level4-gold-helmet-suit-flippers-anchor.webp" width="50" height="50">
+     <img src="https://assets.holopin.io/hf2023levels/level4-gold-helmet-suit-flippers-anchor.webp" width="50" height="50" color="white">
    </a>&nbsp;
    <a href="https://holopin.io/@ag8350961">
      <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG5leHg3dmUyMTcxOTN6amp0c2lvNXZqIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="50" height="50">
